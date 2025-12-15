@@ -185,6 +185,6 @@ Proyectos de código abierto para fines educativos bajo licencia MIT.
 
 <div align="center">
 
-**Desarrollado con ❤️ por José Luis OP**
+**Desarrollado por José Luis OP**
 
 </div>
