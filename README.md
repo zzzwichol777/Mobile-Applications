@@ -68,7 +68,7 @@ Los códigos para los microcontroladores ESP32 se encuentran en la carpeta `ESP3
 - `DRHOME/` - Código para el sistema médico
 - `FERSXMET/` - Código para la estación meteorológica
 - `GASOX/` - Código para el detector de gases
-
+También hay una mezcla entre el GASOX Y FERSXMET para un dron meteorológico.
 ---
 
 ## 🛠️ Tecnologías
